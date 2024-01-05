@@ -1,4 +1,4 @@
-Welcome to the Book Store website! This platform allows users to register, login, explore a variety of books, add them to their cart, and proceed to payment. Users have the flexibility to choose between payment on delivery or using PayPal for a seamless checkout experience. Admins have additional functionalities such as managing book categories, handling orders, and overseeing the inventory.
+Welcome to the Claire Books Limited website! This platform allows users to register, login, explore a variety of books, add them to their cart, and proceed to payment. Users have the flexibility to choose between payment on delivery or using PayPal for a seamless checkout experience. Admins have additional functionalities such as managing book categories, handling orders, and overseeing the inventory.
 
 Features
 User Features
