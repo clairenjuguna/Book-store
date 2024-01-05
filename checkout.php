@@ -70,6 +70,8 @@ paypal.Button.render({
     	size: 'small'
     },
  ///hfhhhgbhbbfhihihhhriihhrhurr
+ ///fhrfufrurrhirfifbfifbrfbrifff
+ ///fhbrfhu3ffufifuf
     payment: function(data, actions) {
         return actions.payment.create({
             payment: {

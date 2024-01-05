@@ -93,7 +93,7 @@
         _this.closest('.cart-item').find('.cart-qty').val(qty)
         _this.closest('.cart-item').find('.total-amount').text(new_total)
         calc_total()
-
+///cart fhrhrbhffhhhrikfhhhvihvihvhrvihrbihfbihhhihihibibbhivbtbbviijkdfchbknfcyhbjnmdhndchjhdjc
         $.ajax({
             url:'classes/Master.php?f=update_cart_qty',
             method:'POST',
