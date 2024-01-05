@@ -6,6 +6,7 @@ $total = 0;
         $total += $row['price'] * $row['quantity'];
     endwhile;
 ?>
+
 <section class="py-5">
     <div class="container">
         <div class="card rounded-0">
@@ -68,7 +69,7 @@ paypal.Button.render({
     	color: 'blue',
     	size: 'small'
     },
- 
+ ///hfhhhgbhbbfhihihhhriihhrhurr
     payment: function(data, actions) {
         return actions.payment.create({
             payment: {
